@@ -1,20 +1,11 @@
 [
     {
-      "color": "ff0000",
-      "dopname": "(X2)",
-      "maxonline": 700,
+      "color": "FF0000",
+      "dopname": "(X3 ПОПОЛНЕНИЕ)",
+      "maxonline": 1000,
       "name": "RED",
-      "online": 327,
-      "wilson_host": "94.198.51.12",
-      "wilson_port": 1887
-    },
-    {
-      "color": "00FFff",
-      "dopname": "(НЕТ ДОСТУПА)",
-      "maxonline": 0,
-      "name": "BLACK",
-      "online": 0,
-      "wilson_host": "94.198.51.12",
-      "wilson_port": 1887
+      "online": 352,
+      "host": "94.198.51.12",
+      "port": 1887
     }
-]
+  ]
